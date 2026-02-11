@@ -1,5 +1,4 @@
-Sorry, im not in git.
-Pushed source there in case anybody wants to see it.
+# Bookmark purposes only for the forked ver
 
 # To install the mod, you need to:
 > 1. Download the [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4) and follow official [instructions](https://docs.bepinex.dev/articles/user_guide/installation/index.html?tabs=tabid-win) how to install bepinex
